@@ -1,7 +1,8 @@
 # Stable-Diffusion
 Alternative Stable Diffusion AI, To Create Your Visual Art Using Promt
 
-## Run Use Google Colab
+## Download Model In Here
+https://civitai.com/
 
 *TIPS
 
